@@ -5,4 +5,3 @@
 - Need space in your local storage
 - add multiple images
 - simple need image name or URL
-### GO Live
